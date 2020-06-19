@@ -1,0 +1,95 @@
+* {
+	padding:0px;
+	margin:0px;
+}
+body {
+	background:#420606;
+}
+.logo {
+	float:left;
+	position:relative;
+	top:;
+	left:41%;
+	bottom:;
+	right:;
+}
+.lista-nav a {
+	float:left;
+	padding:3px 30px 3px 30px;
+	width:28.8%;
+	background:#000;
+	font-size:30px;
+	box-shadow:5px 5px 5px #F30101;
+}
+.lista-nav a:hover {
+	background:#F30101;
+	color:#0C0101;
+	box-shadow:none;
+}
+li {
+	list-style:none;
+}
+.menu {
+	text-align:center;
+}
+a {
+	text-decoration:none;
+}
+.img-paypal {
+	padding:23px 0px 0px 0px;
+	float:left;
+	margin:0px 0px 0px 600px;
+}
+.donar-nav {
+	font-size:30px;
+	margin:0px 0px 10px 595px;
+}
+.cabecera h3 {
+	background:#000;
+	box-shadow:5px 5px 5px #F30101;
+}
+.donar-nav:hover {
+	background:#F30101;
+	box-shadow:none;
+}
+.titulo-logo {
+	color:#A8270C;
+    font-size:50px;
+}
+.cabecera {
+	text-align:centerl;
+}
+.cabecera .menu h3 {
+	margin-right:620px;
+	margin-top:40px;
+	
+}
+.contenedor {
+	text-align:center;
+}
+.pie {
+	text-align:center;
+	background:#000;
+	font-size:20px;
+	color:#F30101;
+	margin:10px 0px 0px 0px;
+	padding:20px 20px 20px 20px;
+}
+.contenedor p {
+	font-size:12px;
+	color:#F30101;
+}
+.link-descarga {
+	font-size:30px;
+	margin:3px 600px 3px 600px;
+	background:#000;
+	box-shadow:5px 5px 5px red;
+	border:solid 3px red;
+}
+.link-descarga:hover {
+	background:#000;
+	box-shadow:none;
+}
+.titulo-principal {
+	color:#F30101;
+}

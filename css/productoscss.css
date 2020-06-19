@@ -1,0 +1,97 @@
+* {
+	padding:0px;
+	margin:0px;
+}
+body {
+	background:#420606;
+}
+.logo {
+	float:left;
+	position:relative;
+	top:;
+	left:41%;
+	bottom:;
+	right:;
+}
+.lista-nav a {
+	float:left;
+	padding:3px 30px 3px 30px;
+	width:28.8%;
+	background:#000;
+	font-size:30px;
+	box-shadow:5px 5px 5px #F30101;
+}
+.lista-nav a:hover {
+	background:#F30101;
+	color:#0C0101;
+	box-shadow:none;
+}
+li {
+	list-style:none;
+}
+.menu {
+	text-align:center;
+}
+a {
+	text-decoration:none;
+}
+.img-paypal {
+	padding:23px 0px 0px 0px;
+	float:left;
+	margin:0px 0px 0px 600px;
+}
+.donar-nav {
+	font-size:30px;
+	margin:0px 0px 10px 595px;
+}
+.cabecera h3 {
+	background:#000;
+	box-shadow:5px 5px 5px #F30101;
+}
+.donar-nav:hover {
+	background:#F30101;
+	box-shadow:none;
+}
+.titulo-logo {
+	color:#A8270C;
+    font-size:50px;
+}
+.cabecera {
+	text-align:centerl;
+}
+.cabecera .menu h3 {
+	margin-right:620px;
+	margin-top:40px;
+	
+}
+.seccion .titulo-genero {
+	color:#FE4F4F;
+	margin:40px 0px 0px 0px;
+}
+.contenedor {
+	text-align:center;
+}
+.seccion h2 {
+	font-size:32px;
+	color:#F30101;
+}
+.seccion a {
+	font-size:50px;
+}
+.link-directo {
+	box-shadow:0px 5px 10px #F30101;
+    background:#000;
+	margin:0% 31.5% 0% 31.5%;
+}
+.link-directo:hover {
+	background:#F30101;
+	box-shadow:none;
+}
+.pie {
+	text-align:center;
+	background:#000;
+	font-size:20px;
+	color:#F30101;
+	margin:10px 0px 0px 0px;
+	padding:20px 20px 20px 20px;
+}
